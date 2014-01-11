@@ -23,7 +23,7 @@ These can vary between language but generally they represent logical and aritmat
 /
 
 ###Assignment
-=
+\=
 
 ###Logical
 || && ! != == ===
@@ -43,7 +43,7 @@ In addition to a lot of variance there is also competing ideals as to if they sh
 
 ##The Array / Collection
 ###Array
-Ordered group of same type data or series of data. While Python and Ruby do not define static types for variables it makes sense that when working with a series of data it is easier on you when they are all the same type. Arrays are indexed meaning each value in sequence is given an integer identifier these range from 0 to the end of the array.
+Ordered group of same type data or series of data. While Python and Ruby do not define variables with a specific type it makes sense that when working with a series of data it is easier on you when they are all the same type. Arrays are indexed meaning each value in sequence is given an integer identifier these range from 0 to the end of the array.
 
 #### Python Example
     >>> a = [1,2,3,4] #an array with the value 1,2,3,4
